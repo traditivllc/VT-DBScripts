@@ -1,0 +1,1 @@
+DROP PROCEDURE IF EXISTS trax2022_get_lmia_employers_list_updated;
