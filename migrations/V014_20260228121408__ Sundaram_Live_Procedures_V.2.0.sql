@@ -1,6 +1,6 @@
-drop procedure if exists PR_trax2022_get_lmia_employer_details;
+drop procedure if exists trax2022_get_lmia_employer_details;
 
-CREATE PROCEDURE PR_trax2022_get_lmia_employer_details(
+CREATE PROCEDURE trax2022_get_lmia_employer_details(
     IN p_employer_slug VARCHAR(500)
 )
 BEGIN
